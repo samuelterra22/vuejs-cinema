@@ -26,6 +26,7 @@
   import MovieItem from '../components/MovieItem.vue'
 
   export default {
+    name: 'MovieList',
     props: ['genre', 'time', 'movies', 'day'],
     methods: {
       formatSessionTime(raw){

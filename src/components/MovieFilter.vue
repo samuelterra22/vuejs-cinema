@@ -18,6 +18,7 @@
   import CheckFilter from '../components/CheckFilter.vue'
 
   export default {
+    name: 'MovieFilter',
     data () {
       return {
         genres,

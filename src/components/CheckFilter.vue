@@ -6,6 +6,7 @@
 </template>
 <script>
   export default {
+    name: 'CheckFilter',
     data () {
       return {
         checked: false
