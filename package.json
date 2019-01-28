@@ -41,7 +41,7 @@
     "vue": "^2.1.0",
     "vue-loader": "^10.0.0",
     "vue-resource": "^1.0.3",
-    "vue-router": "^2.1.1",
+    "vue-router": "^3.0.2",
     "vue-style-loader": "^4.1.2",
     "vue-template-compiler": "^2.1.0",
     "webpack": "^2.2.0",
